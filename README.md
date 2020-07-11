@@ -1,6 +1,7 @@
-# mi_card_flutter
+# Mi Card Flutter
 
-A new Flutter application.
+### My first new Flutter Application.
+
 # OUTPUT
 ![](images/Outcome.png)
 
